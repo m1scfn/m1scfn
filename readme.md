@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity and Programming**
 
-- 👯 I’m looking to collaborate with [SunSet Software](https://discord.gg/Uq2r4GrjH4)
+- 👯 I’m currently collaborating with [Forever3210](https://github.com/Forever3210)
 
 - 📫 How to reach me **m1scfps@proton.me**
 
