@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1scfps&label=Profile%20views&color=0e75b6&style=flat" alt="m1scfps" /> </p>
 
-- 🔭 I’m currently working on [Valorant API](https://valorant-api.com/)
+- 🔭 I’m currently working on [SunSet Software](https://discord.gg/Uq2r4GrjH4)
 
 - 🌱 I’m currently learning **Cybersecurity and Programming**
 
-- 👯 I’m looking to collaborate with [Valorant](https://playvalorant.com/)
+- 👯 I’m looking to collaborate with [SunSet Software](https://discord.gg/Uq2r4GrjH4)
 
 - 📫 How to reach me **m1scfps@proton.me**
 
